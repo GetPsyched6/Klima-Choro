@@ -1,6 +1,6 @@
 # Klima-Choro | (Climate-Space)
 
-![KlimaChoro](https://github.com/GetPsyched6/Klima-Choro/assets/3417276/3c5f4319-cee2-4e37-b90e-bc9d1dbb48c1)
+![KlimaChoro](https://github.com/GetPsyched6/Klima-Choro/assets/3417276/21bb10b3-d0d4-4fcf-93aa-2fdc23350a03)
 
 ## Mapping CO2 Emissions in Urban Spaces, Scientifically
 
