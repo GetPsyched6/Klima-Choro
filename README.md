@@ -4,7 +4,7 @@
 
 ## Mapping CO2 Emissions in Urban Spaces, Scientifically
 
-Developing and optimizing an inverse model which takes CO2 concentrations (as a function of time and space) and winds as input, and CO2 emissions as output. Made for the area of Greater London.
+Developing and optimizing an inverse model which takes CO2 concentrations (as a function of time and space) and winds as input, and CO2 emissions as output. Currently modelled for the areas of Great Britain and Northern Ireland
 
 ---
 
