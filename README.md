@@ -15,17 +15,3 @@ Developing and optimizing an inverse model which takes CO2 concentrations (as a 
 MIT License 2024©
 
 Roshin Nishad
-
-
-
-
-
-
-
-
-
-
-
-
-
-
