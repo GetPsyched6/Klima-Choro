@@ -1,6 +1,6 @@
 # Klima-Choro | (Climate-Space)
 
-![KlimaChoro](https://github.com/GetPsyched6/Klima-Choro/assets/3417276/21bb10b3-d0d4-4fcf-93aa-2fdc23350a03)
+![KlimaChoro](https://github.com/GetPsyched6/Klima-Choro/assets/3417276/be528a9a-a8a5-4a8c-89a0-c7f0d3feece2)
 
 ## Mapping CO2 Emissions in Urban Spaces, Scientifically
 
@@ -8,7 +8,9 @@ Developing and optimizing an inverse model which takes CO2 concentrations (as a 
 
 ---
 
-![Group 3543](https://github.com/GetPsyched6/Klima-Choro/assets/3417276/c734d7b9-0904-4d53-a248-2c4fd1d4cb08)
+<img width="500" alt="Group 3543" src="https://github.com/GetPsyched6/Klima-Choro/assets/3417276/9182c148-7b2f-4875-b5ca-0e2c113684d1">
+
+---
 
 MIT License 2024©
 
